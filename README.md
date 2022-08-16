@@ -28,6 +28,6 @@ build.
 
 ## Installing
 
-Like any other KSP mod, you can copy or unzip the DraggableAltimeter
+Like any other KSP mod, you can copy or unzip the DraggableControls
 directory into the `GameData` KSP folder. Or, preferably, install it
 from CKAN.

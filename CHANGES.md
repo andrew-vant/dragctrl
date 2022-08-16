@@ -2,7 +2,11 @@
 
 ### [Unreleased]
 
-### [0.9.0]
+### 1.0.0
+
+Initial release. No changes from 0.9.0.
+
+### 0.9.0
 
 Pre-release of Draggable Controls.
 
@@ -35,6 +39,6 @@ pushing me to do this thing.
 
 - Initial release
 
-[Unreleased]: https://github.com/andrew-vant/dragctrl/compare/main...HEAD
+[Unreleased]: https://github.com/andrew-vant/dragctrl/compare/master...HEAD
 [dn101]: https://github.com/andrew-vant/dragnav/compare/v1.0.0...v1.0.1
 [da101]: https://github.com/andrew-vant/dragalt/compare/v1.0.0...v1.0.1
